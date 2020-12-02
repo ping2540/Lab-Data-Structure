@@ -1,1 +1,22 @@
-# Lab-Data-Structure
+
+# Lab Method Application
+![1](https://user-images.githubusercontent.com/62991197/100859095-699a8980-34c1-11eb-82bc-e440db94ba1e.jpg)
+# Result
+![2](https://user-images.githubusercontent.com/62991197/100859103-6d2e1080-34c1-11eb-9f43-97668b63544c.jpg)
+
+![3](https://user-images.githubusercontent.com/62991197/100859666-137a1600-34c2-11eb-8af0-df07b075f924.jpg)
+
+# Result
+![4](https://user-images.githubusercontent.com/62991197/100860370-027dd480-34c3-11eb-8ad7-464f6f86713d.jpg)
+
+![5](https://user-images.githubusercontent.com/62991197/100861020-d7e04b80-34c3-11eb-8c89-6080b0f7ab09.jpg)
+# Result
+![6](https://user-images.githubusercontent.com/62991197/100863315-f85dd500-34c6-11eb-99c6-c39ccdb16b82.jpg)
+
+![7](https://user-images.githubusercontent.com/62991197/100885591-6a451700-34e5-11eb-942a-52eb22422f9f.jpg)
+
+# Result
+![8](https://user-images.githubusercontent.com/62991197/100885764-982a5b80-34e5-11eb-82b6-d3ba1514631d.jpg)
+![9](https://user-images.githubusercontent.com/62991197/100885938-c90a9080-34e5-11eb-9373-11f1fa94898f.jpg)
+# Result
+![10](https://user-images.githubusercontent.com/62991197/100887352-74681500-34e7-11eb-9c13-cc92ac241872.jpg)
