@@ -27,3 +27,10 @@
 
 # Result
 ![14](https://user-images.githubusercontent.com/62991197/100895460-27d50780-34f0-11eb-9f33-5bc8b875f906.jpg)
+# Lab ArrayCollection
+![1](https://user-images.githubusercontent.com/62991197/100896055-ceb9a380-34f0-11eb-9de0-324773b905ac.jpg)
+# Result
+![2](https://user-images.githubusercontent.com/62991197/100903641-ba79a480-34f8-11eb-8599-6461083cecfa.jpg)
+![3](https://user-images.githubusercontent.com/62991197/100904930-1a247f80-34fa-11eb-9683-ea533c55a73f.jpg)
+# Result
+![4](https://user-images.githubusercontent.com/62991197/100904938-1bee4300-34fa-11eb-8584-52bb1c08deac.jpg)
