@@ -56,4 +56,23 @@
 # Output
 ![12](https://user-images.githubusercontent.com/62991197/100911591-0250f980-3502-11eb-8f13-d14c5e16fce0.jpg)
 # Lab LinkedCollection
-
+# Problem 1
+![1](https://user-images.githubusercontent.com/62991197/100993411-f60f7f80-3587-11eb-9d5a-0ed3f9b3b62d.jpg)
+# Output
+![2](https://user-images.githubusercontent.com/62991197/100999181-00814780-358f-11eb-8cbc-21074a2c8747.jpg)
+# Problem 2
+![3](https://user-images.githubusercontent.com/62991197/100993427-fa3b9d00-3587-11eb-81ce-cfb0ccda14ea.jpg)
+# Output
+![4](https://user-images.githubusercontent.com/62991197/100999830-c1072b00-358f-11eb-9d27-330da59e267a.jpg)
+# Problem 3
+![5](https://user-images.githubusercontent.com/62991197/100993437-fd368d80-3587-11eb-9bc7-efbb1889fe9a.jpg)
+# Output
+![6](https://user-images.githubusercontent.com/62991197/101000309-4e4a7f80-3590-11eb-8028-da548b3ecb24.jpg)
+# Problem 4
+![7](https://user-images.githubusercontent.com/62991197/100993446-00317e00-3588-11eb-9baf-c7795382154b.png)
+# Output
+![8](https://user-images.githubusercontent.com/62991197/101000576-af725300-3590-11eb-91c2-554b9bb2b395.jpg)
+# Problem 5
+![9](https://user-images.githubusercontent.com/62991197/100993454-032c6e80-3588-11eb-9754-1f4a66f1a31e.jpg)
+# Output
+![10](https://user-images.githubusercontent.com/62991197/101001289-82727000-3591-11eb-891e-68a69ec5dd56.jpg)
