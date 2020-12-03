@@ -55,3 +55,5 @@
 ![11](https://user-images.githubusercontent.com/62991197/100909794-b735e700-34ff-11eb-8fd4-8e948bfbfa41.jpg)
 # Output
 ![12](https://user-images.githubusercontent.com/62991197/100911591-0250f980-3502-11eb-8f13-d14c5e16fce0.jpg)
+# Lab LinkedCollection
+
